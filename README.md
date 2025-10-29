@@ -1,17 +1,14 @@
 <!-- PROJECT TITLE -->
 <h1 align="center">Email Spam Detection</h1>
 
-<!-- HEADER -->
-<p align="center">
-  <img src="Images/Email_Spam_Detection_Cover.png"/>
-</p>
+
 
 <!-- PROJECT DESCRIPTION -->
-## <br>**➲ Project description**
+## <br>**description**
 Email spam detection system is used to detect email spam using Machine Learning technique called Natural Language Processing and Python, where we have a dataset contain a lot of emails by extract important words and then use naive classifier we can detect if this email is spam or not.
 
 <!-- PREREQUISTIES -->
-## <br>**➲ Prerequisites**
+## <br>**Prerequisites**
 This is list of required packages and modules for the project to be installed :
 * <a href="https://www.python.org/downloads/" target="_blank">Python 3.x</a>
 * Pandas 
@@ -25,12 +22,12 @@ Install all required packages :
   ```
 
 <!-- THE DATASET -->
-## <br>**➲ The Dataset**
+## <br>**Dataset**
 Human activites dataset contain about 5728 record which is a sample of an email
 and a target column "spam" which describe the state of an email spam or not.<br>
 
 <!-- CODING SECTIONS -->
-## <br>**➲ Coding Sections**
+## <br>**Coding Sections**
 In this part we will see the project code divided to sections as follows:
 <br>
 
@@ -46,7 +43,7 @@ processes like :
 The dataset is ready for training, so we create a naive classifier using scikit-learn and thin fit it to the data, and finally we evaluate the model by getting accuracy, classification report and confusion matrix<br>
 
 <!-- INSTALLATION -->
-## ➲ Installation
+##  Installation
 1. Clone the repo
    ```sh
    git clone https://github.com/omaarelsherif/Email-Spam-Detection-Using-Machine-Learning.git
@@ -54,7 +51,7 @@ The dataset is ready for training, so we create a naive classifier using scikit-
 2. Open 'main.ipynb' in Google Colab or VScode and enjoy
 
 <!-- REFERENCES -->
-## <br>**➲ References**
+## <br>** References**
 These links may help you to better understanding of the project idea and techniques used :
 1. Spam detection in machine learning : https://bit.ly/3nwiKtA
 2. Naive-bayes algorithm : https://bit.ly/3zc9SLH
